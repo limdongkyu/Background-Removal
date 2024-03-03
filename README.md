@@ -1,6 +1,12 @@
 # Background-Removal
 
 
-## pip install -r requirements.txt
+## install and run
 
-## streamlit run main.py
+pip install -r requirements.txt
+
+streamlit run main.py
+
+## demo web page
+
+https://background-removal-ur4qi32rwwr3gnsnhvlb2o.streamlit.app
